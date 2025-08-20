@@ -27,4 +27,4 @@ Stack Overflow’s global survey captures insights on developers’ experience, 
 
 Please click on the link below to view or access the notebook.
 
-[Dataset Exploration](https://github.com/FaiLuReH3Ro/ExploringDataset/blob/main/Exploring_the_Dataset.ipynb)
+[Dataset Exploration](https://github.com/FaiLuReH3Ro/exploring-dataset/blob/main/Exploring_the_Dataset.ipynb)
