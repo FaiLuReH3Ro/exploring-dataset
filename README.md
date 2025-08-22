@@ -2,6 +2,12 @@
 
 <p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#data-collection'>Data Collection</a> section.</p>
 
+## Jupyter Notebook
+
+Please click on the link below to view or access the notebook.
+
+[Dataset Exploration](https://github.com/FaiLuReH3Ro/exploring-dataset/blob/main/Exploring_the_Dataset.ipynb)
+
 ## Dataset Used
 
 Stack Overflow’s global survey captures insights on developers’ experience, tools, technologies, and preferences, offering a snapshot of the software development landscape.
@@ -22,9 +28,3 @@ Stack Overflow’s global survey captures insights on developers’ experience, 
 * Jupyter notebook
 * Python
 * Pandas
-
-## Jupyter Notebook
-
-Please click on the link below to view or access the notebook.
-
-[Dataset Exploration](https://github.com/FaiLuReH3Ro/exploring-dataset/blob/main/Exploring_the_Dataset.ipynb)
