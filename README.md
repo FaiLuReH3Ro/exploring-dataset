@@ -4,7 +4,7 @@
 
 ## 📓 Jupyter Notebook
 
-Please click on the link below to view or access the notebook.
+> Please click on the link below to view or access the notebook.
 
 👉 [Dataset Exploration](https://github.com/FaiLuReH3Ro/exploring-dataset/blob/main/Exploring_the_Dataset.ipynb)
 
