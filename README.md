@@ -4,15 +4,19 @@
 
 ## 📓 Jupyter Notebook
 
-> Please click on the link below to view or access the notebook.
+> Notebook on Kaggle
 
-👉 [Dataset Exploration](https://github.com/FaiLuReH3Ro/exploring-dataset/blob/main/Exploring_the_Dataset.ipynb)
+👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/dataset-exploration)
+
+> Click on the link below to view or access the notebook on GitHub.
+
+👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/exploring-dataset/blob/main/Exploring_the_Dataset.ipynb)
 
 ## 📈 Dataset Used
 
 The primary dataset used is the 2024 Stack Overflow global survey. Stack Overflow is a Q&A website for programmers where developers ask coding questions and get answers from the community. The survey aims to capture insights on developers' experiences, tools, technologies, and preferences, offering a snapshot of the software development landscape.
 
-📥 [Dataset Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/n01PQ9pSmiRX6520flujwQ/survey-data.csv) (Downloads a CSV)
+📥 [Dataset Source](https://www.kaggle.com/datasets/failureh3ro/stack-overflow-survey-data-2024-subset) (Kaggle)
 
 > Note: This CSV is a subset of the original data
 
