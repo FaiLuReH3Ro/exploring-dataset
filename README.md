@@ -4,10 +4,14 @@
 
 ## 📓 Jupyter Notebook
 
-> Notebook on Kaggle
+> [!NOTE]
+> Click on the link below to view the notebook on Kaggle.
 
 👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/dataset-exploration)
 
+<br>
+
+>[!NOTE]
 > Click on the link below to view or access the notebook on GitHub.
 
 👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/exploring-dataset/blob/main/Exploring_the_Dataset.ipynb)
@@ -18,7 +22,8 @@ The primary dataset used is the 2024 Stack Overflow global survey. Stack Overflo
 
 📌 [Dataset Source](https://www.kaggle.com/datasets/failureh3ro/stack-overflow-survey-data-2024-subset) (Kaggle)
 
-> Note: The dataset is a subset of the original data
+> [!NOTE]
+> The dataset is a subset of the original data
 
 📌 [Original Source](https://stackoverflow.blog/2024/08/06/2024-developer-survey/) (Stack Overflow)
 
